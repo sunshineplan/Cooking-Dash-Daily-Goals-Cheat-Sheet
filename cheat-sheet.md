@@ -610,7 +610,7 @@ Smoked Turkey in Barnyard BBQ – S2E1, S2E3, S2E4, S2E9, S3E2, S3E4
 
 Smoked Beans in Barnyard BBQ – S2E2, S3E12, S2E12, S2E3, S2E5, S2E6, S2E7, S2E8
 
-Smoked Rack o’ Ribs in Barnyard BBQ – S2E5, S2E4, S3E13
+Smoked Rack o’ Ribs in Barnyard BBQ – S2E5(5), S2E4(5), S3E13
 
 Spicy Smoked Steak in Barnyard BBQ – S2E8, S3E8, S2E7, S2E9, S3E7
 
@@ -1752,7 +1752,7 @@ The Cheeky Tiki
 ---
 Strawberry Punch in The Cheeky Tiki – S1E3, S1E5, S1E8, S1E10, S1E11, S2E8, S2E14
 
-Pineapple Punch in The Cheeky Tiki – S1E6, S2E12
+Pineapple Punch in The Cheeky Tiki – S1E6(3), S2E12(3)
 
 Coco Loco in The Cheeky Tiki – S3E6, S1E4, S1E6, S1E8, S1E9, S1E12, S2E5, S2E7, S2E15
 
