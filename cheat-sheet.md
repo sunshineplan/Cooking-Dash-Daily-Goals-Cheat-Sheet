@@ -604,7 +604,7 @@ Grilled Ribs in Barnyard BBQ – S1E14, S1E10, S1E12, S1E13, S2E7, S2E13, S3E8, 
 
 Grilled Turkey Pieces in Barnyard BBQ – S1E15, S3E5, S2E14
 
-Corn on the Cob in Barnyard BBQ – S1E14, S3E15, S3E8, S2E1, S2E2, S2E5, S3E13
+Corn on the Cob in Barnyard BBQ – S1E14, S3E15(5), S3E8, S2E1, S2E2, S2E5, S3E13
 
 Smoked Turkey in Barnyard BBQ – S2E1, S2E3, S2E4, S2E9, S3E2, S3E4
 
