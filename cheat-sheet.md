@@ -814,7 +814,7 @@ Strawberry Smoothie in Wonderland Delights – S4E5, S4E3, S4E2, S4E14
 
 Pâté and Cucumber Sandwich in Wonderland Delights – S4E4, S4E11
 
-Blueberry Smoothie in Wonderland Delights – S4E6, S4E9, S4E8, S4E11, S4E12, S4E15
+Blueberry Smoothie in Wonderland Delights – S4E6, S4E9(5), S4E8(2), S4E11(4), S4E12(3), S4E15(3)
 
 
 
