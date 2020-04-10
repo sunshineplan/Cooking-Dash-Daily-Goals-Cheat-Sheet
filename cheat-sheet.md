@@ -1598,7 +1598,7 @@ Hip Stir Cafe
 ---
 Espresso in Hip Stir Cafe – S1E9, S1E10, S1E12, S1E15
 
-Latte in Hip Stir Cafe – S1E11, S2E9, S1E13, S1E14, S1E15, S2E1, S3E4, S3E8, S4E15
+Latte in Hip Stir Cafe – S1E11(5), S2E9, S1E13, S1E14, S1E15, S2E1, S3E4, S3E8, S4E15
 
 Plain Huckleberry Ring Donut in Hip Stir Cafe – S1E12, S2E7, S1E7, S1E15, S2E11, S4E15
 
